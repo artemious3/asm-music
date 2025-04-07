@@ -7,6 +7,7 @@ This is a 6-track sequencer with audio logic written in x86 Assembly, and UI par
 # Requirements
 
 OS  : Linux
+
 CPU : Any with x86-64 instruction set and SIMD extention
 
 Dependencies :
@@ -17,7 +18,7 @@ Dependencies :
 - PortAudio
 - SFML 3
 
-Running parsers is not required for compilation, but if you want, you need to have 
+Running parsers is not required for compilation, but if you want, you need to have:
 - python 
 - numpy
 
